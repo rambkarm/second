@@ -3,6 +3,9 @@ public class Square {
         int x;
         int y;
         x = square(2);
+
+
+
         System.out.println(x);
         x = square(4);
         System.out.println(x);
