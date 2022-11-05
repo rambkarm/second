@@ -1,3 +1,5 @@
+package begin;
+
 public class Numbers {
     // 0001 = 1
     // 0010 = 2 2^1

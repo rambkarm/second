@@ -1,3 +1,5 @@
+package begin;
+
 public class Fibanachi {
     public static void main(String[] args) {
         int n0 = 1;

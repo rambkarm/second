@@ -1,3 +1,5 @@
+package examclouds.lesson4;
+
 public class Hw03 {
     public static void main(String[] args) {
         int a = 5;

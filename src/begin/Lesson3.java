@@ -1,3 +1,5 @@
+package begin;
+
 public class Lesson3 {
     public static void main(String[] args) {
         String abc = increment100("abc");
